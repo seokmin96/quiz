@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>퀴즈</title>
+</head>
+<body>
+    <p align="center">내가 가장 좋아하는 <b>동물</b>은?</p>
+   <ol type="a">
+    <li> <a href="/quiz/wrong.html">강아지</a>  <img src="https://mblogthumb-phinf.pstatic.net/MjAyMDA3MjhfMzcg/MDAxNTk1OTE5OTQ3ODA2.ecxiJRgcYqOwDAodSPyzGb_RluVzfnf7AIF6o97m2XQg.4_8LadIMzCW1yj_ZpavPYxb635t-3aJevVhcIkQXtGQg.JPEG.hyousang/1.jpg?type=w800" alt="강아지 사진입니다." width="150"> </li>
+    <li> <a href="./quiz/correct.html">고양이</a> <img src="https://tgzzmmgvheix1905536.cdn.ntruss.com/2020/02/2e1706a165214ccc8653d15e35f742de" alt="고양이 사진입니다." width="150"> </a> </li>
+    <li> <a href="/quiz/wrong.html"> 고라니</a> <img src="https://post-phinf.pstatic.net/MjAyMjA3MjBfODMg/MDAxNjU4MzEwOTI3NTcw.Mw1LlsxuR3lvtlTe8oPJb-FyuHOnin3IQjvlgLSND90g.pz2P32A1OeblFBDhtAhVRedM3qIRKuvbWXxXeFnfCF4g.JPEG/371138_780545_2049.jpg?type=w1200" alt="" width="150"></li>
+    <li> <a href="/quiz/wrong.html"> 다람쥐</a> <img src="https://dnwm9zq2dr65n.cloudfront.net/production/observation/2020/05/30/res/ios_14530_0_05301638108840_res_IMG_1428.JPG" alt="" width="150"></li>
+    
+   </ol>
+    
+</body>
+</html>
